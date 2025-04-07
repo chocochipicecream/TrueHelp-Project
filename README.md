@@ -48,6 +48,7 @@ Elderly individuals often face mobility, health, and social challenges that make
 
 ## Future Enhancements:-
 
+- Build a working interface for the project for easier usability
 - Mobile app version with GUI
 - Location-based volunteer-citizen pairing
 - Database integration for persistent storage
